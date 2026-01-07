@@ -1,0 +1,1 @@
+This repository will host the slides and notes for Statistics By Default.
